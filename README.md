@@ -1,2 +1,2 @@
 # odin-recipes
-A Elegant Project to showcase you the Morrocan cuisine, mixed with a sprinkle of HTML.
+A Elegant Project to showcase the rich flavors of the Morrocan cuisine, with as main intent to showcase my HTML competence.
